@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Cwiczenie2.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Projekty\RiderProjects\Cwiczenie2\.idea\.idea.Cwiczenie2\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

@@ -1,0 +1,10 @@
+insert into Musician (IdMusician_1,IdTrack) values ('1', '1');
+insert into Musician (IdMusician_1,IdTrack) values ('2', '2');
+insert into Musician (IdMusician_1,IdTrack) values ('3', '3');
+insert into Musician (IdMusician_1,IdTrack) values ('4', '4');
+insert into Musician (IdMusician_1,IdTrack) values ('5', '5');
+insert into Musician (IdMusician_1,IdTrack) values ('6', '6');
+insert into Musician (IdMusician_1,IdTrack) values ('7', '7');
+insert into Musician (IdMusician_1,IdTrack) values ('8', '8');
+insert into Musician (IdMusician_1,IdTrack) values ('9', '9');
+insert into Musician (IdMusician_1,IdTrack) values ('10', '10');

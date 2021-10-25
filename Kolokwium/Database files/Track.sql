@@ -1,0 +1,10 @@
+insert into Track (IdTrack, TrackName, Duration, IdMusicAlbum) values (1, 'Jaye', 3.08, 1);
+insert into Track (IdTrack, TrackName, Duration, IdMusicAlbum) values (2, 'Barthel', 1.26, 2);
+insert into Track (IdTrack, TrackName, Duration, IdMusicAlbum) values (3, 'Thornie', 2.33, 3);
+insert into Track (IdTrack, TrackName, Duration, IdMusicAlbum) values (4, 'Jo', 2.87, 4);
+insert into Track (IdTrack, TrackName, Duration, IdMusicAlbum) values (5, 'Quinn', 3.11, 5);
+insert into Track (IdTrack, TrackName, Duration, IdMusicAlbum) values (6, 'Cherilyn', 2.73, 6);
+insert into Track (IdTrack, TrackName, Duration, IdMusicAlbum) values (7, 'Henrietta', 2.46, 7);
+insert into Track (IdTrack, TrackName, Duration, IdMusicAlbum) values (8, 'Emera', 2.46, 8);
+insert into Track (IdTrack, TrackName, Duration, IdMusicAlbum) values (9, 'Evania', 3.01, 9);
+insert into Track (IdTrack, TrackName, Duration, IdMusicAlbum) values (10, 'Ianthe', 2.56, 10);

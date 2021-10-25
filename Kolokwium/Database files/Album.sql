@@ -1,0 +1,10 @@
+insert into Album (IdAlbum, AlbumName, PublishDate, IdMusicLabel) values (1, 'Bristlecone Pine', '2/23/2020', 1);
+insert into Album (IdAlbum, AlbumName, PublishDate, IdMusicLabel) values (2, 'Lithographa Lichen', '5/28/2020', 2);
+insert into Album (IdAlbum, AlbumName, PublishDate, IdMusicLabel) values (3, 'Wright''s Sensitive Pea', '8/9/2020', 3);
+insert into Album (IdAlbum, AlbumName, PublishDate, IdMusicLabel) values (4, 'Bear Valley Buckwheat', '1/24/2021', 4);
+insert into Album (IdAlbum, AlbumName, PublishDate, IdMusicLabel) values (5, 'Kauai Geranium', '12/21/2020', 5);
+insert into Album (IdAlbum, AlbumName, PublishDate, IdMusicLabel) values (6, 'Green Dragon', '3/9/2020', 6);
+insert into Album (IdAlbum, AlbumName, PublishDate, IdMusicLabel) values (7, 'Fernald''s False Mannagrass', '10/11/2020', 7);
+insert into Album (IdAlbum, AlbumName, PublishDate, IdMusicLabel) values (8, 'Nealley''s Sprangletop', '12/3/2020', 8);
+insert into Album (IdAlbum, AlbumName, PublishDate, IdMusicLabel) values (9, 'Arctic Rim Lichen', '4/21/2021', 9);
+insert into Album (IdAlbum, AlbumName, PublishDate, IdMusicLabel) values (10, 'Cottontop Cactus', '4/2/2021', 10);

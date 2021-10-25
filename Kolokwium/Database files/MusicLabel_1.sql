@@ -1,0 +1,10 @@
+insert into MusicLabel (IdMusicLabel, Name) values (1, 'Linklinks');
+insert into MusicLabel (IdMusicLabel, Name) values (2, 'Wikizz');
+insert into MusicLabel (IdMusicLabel, Name) values (3, 'Eidel');
+insert into MusicLabel (IdMusicLabel, Name) values (4, 'Edgeblab');
+insert into MusicLabel (IdMusicLabel, Name) values (5, 'Twitterworks');
+insert into MusicLabel (IdMusicLabel, Name) values (6, 'Oyope');
+insert into MusicLabel (IdMusicLabel, Name) values (7, 'Pixope');
+insert into MusicLabel (IdMusicLabel, Name) values (8, 'Skidoo');
+insert into MusicLabel (IdMusicLabel, Name) values (9, 'Feedfish');
+insert into MusicLabel (IdMusicLabel, Name) values (10, 'Eayo');
